@@ -1,0 +1,1 @@
+INSERT INTO covids(id,nombre_del_estado,sigla,fecha,total_de_casos,total_de_positivos,total_de_hospitalizados) values (1,'Alaska','AL','2025-06-12',100,70,70)
